@@ -5,7 +5,7 @@ The aim of `ars` is to quickly generate sample with hard-to-evaluate density fun
 
 ## Performance of Sampling
 
-We have tested several log-concave density function and 'ars' performed well for all of those distribution. The [write up]() shows how we implement the algorithm and what improvements we made.
+We have tested several log-concave density function and 'ars' performed well for all of those distribution. The [write up](https://github.com/zzseany/adaptive_rejection_sampling/blob/master/writeup/ars.pdf) shows how we implement the algorithm and what improvements we made.
 
 ## Contributors
 
