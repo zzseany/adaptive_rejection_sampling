@@ -1,0 +1,18 @@
+Package: ars
+Type: Package
+Title: Adaptive Rejection Sampling
+Version: 0.1.0
+Authors@R: as.person(c(
+    "Jonathan Morrell <jmorrell@berkeley.edu> [aut, cre]", 
+    "Ziyang Zhou <zhou_ziyang@berkeley.edu> [aut]",
+    "Vincent Zijlmans <vmziljlmans@berkeley.edu [aut]" 
+  ))
+Maintainer: Jonathan Morrell <jmorrell@berkeley.edu>
+Description: Adaptive Rejection Sampling algorithm
+    for sampling from any log-concave function f(x).
+License: None
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Suggests: 
+    testthat
